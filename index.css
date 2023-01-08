@@ -32,7 +32,9 @@
   margin: 0;
   padding: 0;
 }
-
+#cool{
+	color: #2e82ff;
+}
 .navbar-toggle{
 	border: 2px solid white;
 	margin-right: 25px;
